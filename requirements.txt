@@ -1,6 +1,6 @@
 aiohttp
 anytree
-aria2p==0.9.1
+aria2p
 appdirs
 attrdict
 beautifulsoup4
@@ -23,7 +23,7 @@ pyshorteners
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api==2020.7.7
+qbittorrent-api
 requests
 speedtest-cli
 telegraph
